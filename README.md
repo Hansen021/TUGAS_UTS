@@ -293,4 +293,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## Hasil Run 
 
-(https://github.com/Hansen021/contoh/blob/abbebf5dde336397f01c31971424c8f1c3b8bb34/uts%20mobile.mp4)
+[uts mobile.mp4}.(https://github.com/Hansen021/contoh/blob/2a6aa446f331ee910b105cfc398236ee994269c3/uts%20mobile.mp4).
