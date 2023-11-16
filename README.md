@@ -285,12 +285,17 @@ public class MainActivity extends AppCompatActivity {
 
 ## Tampilan design
 
+![Screenshot 2023-11-15 201133](https://github.com/Hansen021/TUGAS_UTS/assets/129939171/aa4641db-be83-4a48-92df-c4a8d8ff7d40)
 
 
-[Screenshot 2023-11-15 201133.png](https://github.com/Hansen021/contoh/blob/main/Screenshot%202023-11-15%20201133.png)
+
 
 
 
 ## Hasil Run 
 
-[uts mobile.mp4}.(https://github.com/Hansen021/contoh/blob/2a6aa446f331ee910b105cfc398236ee994269c3/uts%20mobile.mp4).
+
+
+https://github.com/Hansen021/TUGAS_UTS/assets/129939171/dfcd6ec4-d47f-46ec-8999-dcaf90f1a5c2
+
+
